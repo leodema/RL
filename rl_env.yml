@@ -8,5 +8,6 @@ dependencies:         # everything under this, installed by conda
     - Tensorflow
     - matplotlib
     - keras
+    - jupyter
     - pip:                # everything under this, installed by pip
         - gym
