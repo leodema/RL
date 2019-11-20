@@ -20,8 +20,10 @@ NOTE: For windows only. not needed for this tutorial. If you want to install the
 
 How to visualize Gym enviroments inside a Jupyter cell: https://kyso.io/eoin/openai-gym-jupyter
 The slides: https://drive.google.com/open?id=1JRS2wyf50QzmmoVHATGHSCOwBf1JqV5h
-My brand new channel: https://www.youtube.com/channel/UCEynRQqeIR_sypfeB33qlgw
 
+```
+Channel: https://www.youtube.com/channel/UCEynRQqeIR_sypfeB33qlgw
+```
 
 For any question, interest in training consultancies please email: leo at ideai.io
 
